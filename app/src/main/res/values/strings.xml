@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spin the Bottle</string>
+    <string name="button">btn_mybutton</string>
+    <string name="btnStringSpin">Spin!</string>
+</resources>
